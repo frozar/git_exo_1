@@ -25,4 +25,8 @@ après chaque commande git.
 # Partie du fichier à mettre à jour
 
 Auteurs :
- - Fabien Rozar
+- Fabien Rozar
+- Lénaïc Honorine
+- Alexandre Tam-Hui 
+- Mathilde Vingadessin
+
