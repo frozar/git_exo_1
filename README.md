@@ -28,4 +28,5 @@ Auteurs :
 - Fabien Rozar
 - Lénaïc Honorine
 - Alexandre Tam-Hui 
+- Mathilde Vingadessin
 
